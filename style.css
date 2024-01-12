@@ -1,0 +1,40 @@
+* {
+    padding: 0%;
+}
+
+.form-control {
+    width: 500px;
+}
+
+.head a {
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.best-seller{
+    background:rgb(238, 225, 225) ;
+}
+.information ul li{
+    list-style-type: none;
+    color:darkgray ;
+}
+#about{
+ color: white;   
+}
+@media(min-width : 1024px){
+      
+}
+    
+
+@media(min-width : 1023px){
+
+
+}
+
+@media(max-width : 768px){
+
+
+}
